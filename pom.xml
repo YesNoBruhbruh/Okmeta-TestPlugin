@@ -77,7 +77,7 @@
         <dependency>
             <groupId>com.github.YesNoBruhbruh</groupId>
             <artifactId>Okmeta</artifactId>
-            <version>fa51b66fda</version>
+            <version>f86342bbd9</version>
         </dependency>
     </dependencies>
 </project>

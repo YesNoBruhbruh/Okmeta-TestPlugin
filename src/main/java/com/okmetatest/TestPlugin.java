@@ -1,14 +1,16 @@
 package com.okmetatest;
 
-import org.bukkit.plugin.java.JavaPlugin;
+import com.maanraj514.Okmeta;
 
-public final class TestPlugin extends JavaPlugin {
+public final class TestPlugin extends Okmeta {
 
     @Override
-    public void onEnable() {
+    public void disable() {
+
     }
 
     @Override
-    public void onDisable() {
+    public void enable() {
+
     }
 }
